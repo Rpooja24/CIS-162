@@ -1,19 +1,22 @@
  
 <style>
-body {background color:green;
-font-family:Segoe,Verdana,sans_serif;}
+body {background-color:green;
+font-family:serif, fantasy, cursive;}
 
-header {background color:Black;
-}
+header {background color:gold;}
 
-h1 {color:red;}
-nav>ul{line-height:1.5cm;
+h1 {color:darkred;}
+h2{color:darkred;}
+p{color:indianred}
+li{color:rebeccapurple}
+nav>ul{line-height:1.5em;
 list_style_type:none;
 padding-right:8px;}
 
-section {background color:yellow;
+section {background-color:yellow;
 width: 70%;
-font_size:1.3 cm;}
+font_size:1.3em;}
 
 footer {background color:green;}
+lastupdated 07/01/2022
 </style>
