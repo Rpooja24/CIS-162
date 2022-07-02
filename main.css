@@ -1,0 +1,19 @@
+ 
+<style>
+body {background color:green;
+font-family:Segoe,Verdana,sans_serif;}
+
+header {background color:Black;
+}
+
+h1 {color:red;}
+nav>ul{line-height:1.5cm;
+list_style_type:none;
+padding-right:8px;}
+
+section {background color:yellow;
+width: 70%;
+font_size:1.3 cm;}
+
+footer {background color:green;}
+</style>
