@@ -1,11 +1,11 @@
  
 <style>
-body {background-color:green;
-font-family:serif, fantasy, cursive;}
+h1{background-color:green;}
+h1{font-family:serif, fantasy, cursive;}
 
 header {background color:gold;}
 
-h1 {color:darkred;}
+h1{color:darkred;}
 h2{color:darkred;}
 p{color:indianred}
 li{color:rebeccapurple}
@@ -13,7 +13,7 @@ nav>ul{line-height:1.5em;
 list_style_type:none;
 padding-right:8px;}
 
-section {background-color:yellow;
+h2 {background-color:yellow;
 width: 70%;
 font_size:1.3em;}
 
